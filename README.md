@@ -1,7 +1,7 @@
 
 <h1>Hi there! <img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30"/> </h1>
 
-I’m Erfan Minaei; A 19 years old novice back-end developer.
+I’m Erfan Minaei. A 19 years old novice back-end developer.
 <h2>Where to find me</h2>
 
 <p>
