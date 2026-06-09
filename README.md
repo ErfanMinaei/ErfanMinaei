@@ -29,21 +29,21 @@ Docker · Jest (TDD) · Git · GitHub · JWT · Role-based access control
 ### 📋 TODO API (Task Management Backend)
 > GraphQL API built with NestJS, Prisma ORM, MySQL, and JWT authentication.  
 > Deployed with Docker. Role-based access control + full CRUD operations.  
-> [GitHub Repo]([https://github.com/TODO](https://github.com/ErfanMinaei/todo_api)) <!-- replace with actual link -->
+> [GitHub Repo](https://github.com/ErfanMinaei/todo_api)
 
 ### 🎬 VIDLY (Movie Sales Platform)
 > RESTful API for a movie sales website. Built with Node.js, Express, MongoDB, and Mongoose.  
 > Features routing, CRUD operations, and ongoing improvements.  
-> [GitHub Repo]([https://github.com/vidly](https://github.com/ErfanMinaei/vidly)) <!-- replace with actual link -->
+> [GitHub Repo](https://github.com/ErfanMinaei/vidly)
 
 ### 🧪 Test Demo (Jest Unit Testing Practice)
 > Unit tests for JavaScript functions using Jest. Follows TDD principles: error handling, edge cases, mocking, and spies.  
-> [GitHub Repo]([https://github.com/test_demo](https://github.com/ErfanMinaei/test_demo)) <!-- replace with actual link -->
+> [GitHub Repo](https://github.com/ErfanMinaei/test_demo)
 
 ### 🤖 BaleBot (Image Collage Bot)
 > A bot for creating image collages inside Bale Messenger.  
 > Built with Python and Docker.  
-> [GitHub Repo]([https://github.com/collagoo](https://github.com/ErfanMinaei/collagoo-bale-bot)) <!-- replace with actual link -->
+> [GitHub Repo](https://github.com/ErfanMinaei/collagoo-bale-bot)
 
 ---
 
