@@ -61,7 +61,7 @@ Docker · Jest (TDD) · Git · GitHub · JWT · Role-based access control
   <a href="mailto:erfanminaei9.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/ermi_404"><img src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/ErfanMinaei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/erfanminaei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/erfanminaei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
